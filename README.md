@@ -21,5 +21,5 @@ _Resources_
 
 _Colaborator_
 
-- [Jude Kajura](github.com/kbjude)
+- [Tunde Sanusi](github.com/tunedev)
 - [Microverse](microverse.org)
