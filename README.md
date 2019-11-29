@@ -6,7 +6,7 @@
 
 _About the Project_
 
-This project is clone of the quickboos intuit signup page, all features done from scratch. It is meant to help vollaborators to better the HTM/CSS skills. Among the features implemented are: the input fields for Email, Phone, and a button to submit this. as shown in the Link [here](file:///private/var/www/projects/microverse/forms/HTMLforms/form.html)
+This project is a clone of the quickboos intuit signup page, all features done from scratch. It is meant to help vollaborators to better the HTM/CSS skills. Among the features implemented are: the input fields for Email, Phone, and a button to submit this. as shown in the Link [here](file:///private/var/www/projects/microverse/forms/HTMLforms/form.html)
 
 _Technology used_
 
