@@ -176,6 +176,12 @@ body {
   font-size: 10px;
 }
 
+.footnote-text {
+    line-height: .8;
+    width: 80%;
+    margin: auto;
+}
+
 /* End Form section */
 
 /* End Top Section */
